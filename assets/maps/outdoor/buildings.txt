@@ -1,0 +1,9 @@
+# Type x y width height doorX doorY
+# Coordinates are global tile coordinates on the 64 x 36 outdoor map.
+# Door coordinates must be inside the building bounds, usually bottom-center.
+
+Home 8 11 6 4 11 14
+Storage 7 17 5 3 9 19
+Barn 17 17 7 4 20 20
+Shop 31 14 6 4 34 17
+Casino 53 25 7 5 56 29

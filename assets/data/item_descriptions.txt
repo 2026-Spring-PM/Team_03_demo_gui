@@ -1,0 +1,12 @@
+fluorescent_radish_seed|A hardy starter seed that grows into fluorescent radish.
+dust_wheat_seed|A basic grain seed that tolerates moderate soil pollution.
+ash_corn_seed|A seed that grows into ash corn.
+glow_mushroom_seedling|A seedling that grows into glow mushroom.
+sturdy_bean_seed|A resilient bean seed with high survival value.
+brass_carrot_seedling|A seedling that grows into brass carrot.
+indigo_berry_seedling|A seedling that grows into indigo berry.
+crystal_sugarcane_seed|A seed that grows into crystal sugarcane.
+aurora_orchid_seedling|A rare seedling that grows into aurora orchid.
+purifier_core|A core component used for purification-related actions.
+water_filter|A disposable filter used to reduce water pollution when applied to contaminated water.
+air_filter|A replaceable filter installed in building air purifiers. Each building consumes one installed filter per day.
